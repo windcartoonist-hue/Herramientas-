@@ -18,3 +18,6 @@ Empieza aquí 👉 [`retroalimentacion/README.md`](retroalimentacion/README.md)
 
 ### Pedir retroalimentación
 Abre un **Issue** con la plantilla *“Pedir retroalimentación”*: sube tu imagen/GIF, di qué quieres lograr y en qué dudas. Así queda un historial de tu progreso.
+
+## Proyectos
+Cada proyecto vive en su propia carpeta dentro de [`proyectos/`](proyectos/). Ahí están la plantilla y las instrucciones para crear uno nuevo.

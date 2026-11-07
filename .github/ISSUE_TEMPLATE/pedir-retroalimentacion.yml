@@ -3,6 +3,14 @@ description: Sube una pieza (ilustración, animación o diseño 2D) para recibir
 title: "[Feedback] "
 labels: ["retroalimentacion"]
 body:
+  - type: input
+    id: proyecto
+    attributes:
+      label: Proyecto
+      description: Nombre de la carpeta del proyecto en `proyectos/`. Añade también la etiqueta `proyecto: nombre` al Issue.
+      placeholder: "Ej.: corto-gato-espacial"
+    validations:
+      required: true
   - type: dropdown
     id: tipo
     attributes:
