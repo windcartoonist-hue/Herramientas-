@@ -48,7 +48,7 @@ El diseño v01 tiene línea de boceto con rayado, colores primarios y una másca
 ## Simplificaciones para animar
 - Ojos: blanco + pupila + un solo brillo (quitar el iris degradado).
 - Boca: menos dientes; diseñar 4–5 formas de boca para el lip sync.
-- Orejas: decidir si son del perro o de la máscara. La oreja larga roja se lee como una tercera oreja.
+- Orejas: las de arriba son las reales y las largas son orejeras de la máscara (tipo gorra del Chavo). Hacer las orejeras del color de la máscara con ribete, y mostrar siempre las dos. Ver [orejas.png](../referencias/propuestas/orejas.png).
 - Cinturón de **campeón** (hebilla grande): da mucha identidad luchadora con poco costo.
 
 ## Ejercicios en Clip Studio
