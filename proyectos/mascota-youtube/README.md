@@ -20,6 +20,7 @@ Mascota para un canal de YouTube: un **perro luchador** con estilo mexicano.
 
 ## Referencias
 - [Moodboard “Diseño gráfico mexicano”](referencias/moodboard.png)
+- [Propuestas visuales: máscaras, paletas y carta de lotería](referencias/propuestas/LEEME.md)
 
 ## Piezas
 
