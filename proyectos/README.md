@@ -6,7 +6,7 @@ Cada proyecto tiene **su propia carpeta**. Las herramientas comunes (proceso, r�
 
 | Proyecto | Tipo | Estado | Inicio |
 |---|---|---|---|
-| _(aún ninguno)_ | | | |
+| [mascota-youtube](mascota-youtube/) | Diseño de personaje | 🔍 En revisión | 2026-11 |
 
 > Estados sugeridos: 💡 Idea · 🎨 En proceso · 🔍 En revisión · ✅ Terminado · ⏸️ En pausa
 
