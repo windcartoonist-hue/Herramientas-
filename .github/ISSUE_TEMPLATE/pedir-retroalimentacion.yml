@@ -1,0 +1,59 @@
+name: Pedir retroalimentación
+description: Sube una pieza (ilustración, animación o diseño 2D) para recibir crítica.
+title: "[Feedback] "
+labels: ["retroalimentacion"]
+body:
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de pieza
+      options:
+        - Ilustración
+        - Animación
+        - Diseño de personaje / prop
+        - Fondo / escenario
+        - Diseño gráfico / UI
+        - Estudio / ejercicio
+    validations:
+      required: true
+  - type: textarea
+    id: pieza
+    attributes:
+      label: Pieza
+      description: Arrastra aquí la imagen, GIF o vídeo (MP4). Para animación indica FPS.
+    validations:
+      required: true
+  - type: input
+    id: objetivo
+    attributes:
+      label: Habilidad que estoy entrenando
+      placeholder: "Ej.: valores, timing de un salto, silueta legible"
+    validations:
+      required: true
+  - type: textarea
+    id: autoevaluacion
+    attributes:
+      label: Autoevaluación
+      description: Notas de la rúbrica (1–4) y tus 3 puntos más débiles.
+  - type: textarea
+    id: preguntas
+    attributes:
+      label: Preguntas concretas
+      placeholder: "1. ¿La mano izquierda se ve rota?\n2. ¿El fondo compite con el personaje?"
+    validations:
+      required: true
+  - type: dropdown
+    id: nivel
+    attributes:
+      label: Tipo de crítica
+      options:
+        - Ligera (solo lo más importante)
+        - Normal (3 puntos con soluciones)
+        - A fondo (rúbrica completa + paintover)
+    validations:
+      required: true
+  - type: input
+    id: tiempo
+    attributes:
+      label: Tiempo invertido y versión
+      placeholder: "Ej.: 4 h, v02"
